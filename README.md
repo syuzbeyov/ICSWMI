@@ -26,7 +26,7 @@
 <p>Should you have any questions or suggestions about the project, feel free to reach out to me:</p>
 <ul>
 <li>Email: <a href="mailto:serhanyuzbey@gmail.com">serhanyuzbey@gmail.com</a></li>
-<li>Social Media: LinkedIn/Twitter Profile</li>
+<li>Social Media: <a href="www.linkedin.com/in/serhanyuzbey">Linkedin</a></li>
 </ul>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>I would like to thank my advisors, peers, and all who supported me throughout this project.</p>
