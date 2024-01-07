@@ -26,7 +26,7 @@
 <p>For ease of use, I have included default values for a 24-hour solar-thermal analysis of the ICSWMI in the project. These defaults serve as a guide, allowing you to conveniently test your own design across various geographical locations.</p>
 <h2 id="results-and-interpretation">Results and Interpretation</h2>
 <p>After inputting your data and running the simulation, the application will plot a solar hour-temperature graph, which represents the temperature of the liquid inside the ICSWMI. This visualization enables you to observe the maximum temperature achieved within the ICSWMI and calculate the total useful energy. Additionally, the impact of the movable insulation layer is illustrated by the flattened curve observed during periods of no solar gain.<br>
-<img src="images/result.png" alt="Results"></p>
+![Result](images/result.png)
 <h2 id="contact">Contact</h2>
 <p>Should you have any questions or suggestions about the project, feel free to reach out to me:</p>
 <ul>
